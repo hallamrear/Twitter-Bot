@@ -1,0 +1,24 @@
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe.config
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\TwitterBot.pdb
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\TweetSharp.dll
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\bin\Debug\TweetSharp.pdb
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csprojResolveAssemblyReference.cache
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\obj\Debug\TwitterBot.exe
+C:\Users\Hal\Documents\Dropbox\TwitterBot\TwitterBot\obj\Debug\TwitterBot.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe.config
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\obj\Debug\TwitterBot.exe
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\obj\Debug\TwitterBot.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\TwitterBot.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\TweetSharp.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\bin\Debug\TweetSharp.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csprojResolveAssemblyReference.cache
